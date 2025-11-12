@@ -5,6 +5,7 @@
 基于2025巡线.py，只做最大面积检测，将结果保存到JSON文件
 """
 import sys
+sys.path.append("/home/pi/TonyPi/")
 import os
 import cv2
 import time

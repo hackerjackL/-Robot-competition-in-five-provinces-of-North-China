@@ -5,6 +5,8 @@
 读取所有时间戳命名的JSON文件，计算最小值和最大值
 基于2025版本数据
 """
+import sys
+sys.path.append("/home/pi/TonyPi/")
 import json
 import os
 import glob

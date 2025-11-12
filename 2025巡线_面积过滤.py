@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # coding=utf8
 import sys
+sys.path.append("/home/pi/TonyPi/")
 import os
 import cv2
 import time
